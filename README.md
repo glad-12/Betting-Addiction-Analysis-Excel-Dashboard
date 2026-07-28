@@ -51,6 +51,12 @@ The analysis was completed entirely in **Microsoft Excel** using:
 - KPI Cards
 - Dashboard Design Techniques
 
+- ## Excel Dashboard
+- <img width="1363" height="765" alt="Bet Dashboard 9" src="https://github.com/user-attachments/assets/5c90e4a2-b6d6-4a5a-8ed7-e03e47dd5a7b" />
+<img width="1366" height="768" alt="Bet Dashboard 8" src="https://github.com/user-attachments/assets/5f9024a4-3569-492f-bd0a-7a8c060cec21" />
+
+
+
 ---
 
 ## Business Problem
