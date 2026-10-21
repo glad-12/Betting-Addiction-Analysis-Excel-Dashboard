@@ -189,7 +189,7 @@ Monthly income was also compared by gender.
 - <img width="1366" height="768" alt="Bet Dashboard 8" src="https://github.com/user-attachments/assets/5f9024a4-3569-492f-bd0a-7a8c060cec21" />
 
 ## Data Source
-Download Dataset (https://selar.com/22mf2621r4)
+Download Dataset (kaggle.com)
 
 ## Key Insights
 
