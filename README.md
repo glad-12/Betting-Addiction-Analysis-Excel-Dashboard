@@ -1,6 +1,7 @@
 Betting-Addiction-Analysis-Excel-Dashboard
 Excel dashboard analyzing sports betting behavior, addiction levels, financial impact, demographics, platforms, and regions to support responsible gambling decisions.
- # Betting Addiction Analysis Dashboard
+
+# Betting Addiction Analysis Dashboard
 
 ## Introduction
 
@@ -183,7 +184,7 @@ Monthly income distribution was analyzed across betting platforms.
 Monthly income was also compared by gender.
 
 ---
-## Excel Dashboard 
+## Excel Dashboard Preview
 <img width="1140" height="663" alt="image" src="https://github.com/user-attachments/assets/e5139442-ae15-4685-8d4e-cb3aa2c66268" />
 <img width="1208" height="680" alt="image" src="https://github.com/user-attachments/assets/37c09b90-fafb-4873-9dd3-cdcdad84683c" />
 
@@ -291,17 +292,4 @@ This project demonstrates how Microsoft Excel can be used to transform survey da
 
 By combining interactive dashboards with KPI tracking and visual analysis, the project highlights key relationships between betting behavior, addiction, financial well-being, and demographic characteristics.
 
-The findings can support policymakers, betting operators, and public health organizations in developing more effective responsible gambling strategies.
-
----
-
-## Dashboard Preview
-
-> Add screenshots of your dashboards here.
-
-Example:
-
-```markdown
-![Dashboard 1 Preview](images/dashboard-1.png)
-
-![Dashboard 2 Preview](images/dashboard-2.png)
+The findings can support policymakers, betting operators, and public health organizations in developing more effective responsible gambling Policies 
