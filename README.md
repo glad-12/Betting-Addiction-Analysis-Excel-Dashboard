@@ -184,8 +184,8 @@ Monthly income was also compared by gender.
 
 ---
 ## Excel Dashboard 
-
-
+IMG_0771.jpeg
+IMG_0772.jpeg
 
 ## Data Source
 Download Dataset (kaggle.com)
